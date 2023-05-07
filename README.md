@@ -1,5 +1,5 @@
-Hi, I’m @sukhsare 👋
-I'm currently studying CS at The University of Liverpool
+Hi, I’m @sukhsare 👋.
+I'm currently studying CS at The University of Liverpool.
 
 
 <!---
