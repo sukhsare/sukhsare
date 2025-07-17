@@ -1,12 +1,6 @@
-Hi, I’m @sukhsare 👋.
-I'm currently studying CS at The University of Liverpool.
+Hi, I'm @sukhsare 👋
+Computer Science graduate interested in software engineering.
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhsare&theme=default&layout=compact)
 
-<!---
-sukhsare/sukhsare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👀 I’m interested in ...
-- 🌱 I’m currently studying CS at The University of Liverpool
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+**Contact:** sukhsareen01@gmail.com
